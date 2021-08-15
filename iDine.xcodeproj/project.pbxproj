@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B221A95D26C92E92007E1944 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B221A95C26C92E92007E1944 /* ItemRow.swift */; };
 		B2999FCD26C7F33800CAADBE /* iDineApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2999FCC26C7F33800CAADBE /* iDineApp.swift */; };
 		B2999FCF26C7F33800CAADBE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2999FCE26C7F33800CAADBE /* ContentView.swift */; };
 		B2999FD126C7F33A00CAADBE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2999FD026C7F33A00CAADBE /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B221A95C26C92E92007E1944 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		B2999FC926C7F33800CAADBE /* iDine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2999FCC26C7F33800CAADBE /* iDineApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iDineApp.swift; sourceTree = "<group>"; };
 		B2999FCE26C7F33800CAADBE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				B2999FD026C7F33A00CAADBE /* Assets.xcassets */,
 				B2999FD526C7F33A00CAADBE /* Info.plist */,
 				B2999FD226C7F33A00CAADBE /* Preview Content */,
+				B221A95C26C92E92007E1944 /* ItemRow.swift */,
 			);
 			path = iDine;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 				B2999FCF26C7F33800CAADBE /* ContentView.swift in Sources */,
 				B2999FCD26C7F33800CAADBE /* iDineApp.swift in Sources */,
 				B2999FE126C7F42600CAADBE /* Order.swift in Sources */,
+				B221A95D26C92E92007E1944 /* ItemRow.swift in Sources */,
 				B2999FE026C7F42600CAADBE /* Menu.swift in Sources */,
 				B2999FDC26C7F3AD00CAADBE /* Helper.swift in Sources */,
 			);

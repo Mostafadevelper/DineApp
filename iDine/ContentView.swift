@@ -17,7 +17,7 @@ struct ContentView: View {
                 ForEach(menu) { section in
                     Section(header:  Text(section.name).bold().foregroundColor(.red)) {
                         ForEach(section.items) { item in
-                            Text(item.name)
+                            ItemRow(item: item)
                         }
                     }
                 }
@@ -25,7 +25,6 @@ struct ContentView: View {
             .navigationTitle("Menu")
             .listStyle(GroupedListStyle())
         }
-
     }
 }
 
