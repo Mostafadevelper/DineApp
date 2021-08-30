@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B202D19626DD62740048C005 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B202D19526DD62740048C005 /* CheckoutView.swift */; };
 		B221A95D26C92E92007E1944 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B221A95C26C92E92007E1944 /* ItemRow.swift */; };
 		B221D28226D057A300C3E1B0 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B221D28126D057A300C3E1B0 /* MainView.swift */; };
 		B25B866F26CE537D001BE7C1 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25B866E26CE537D001BE7C1 /* OrderView.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B202D19526DD62740048C005 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 		B221A95C26C92E92007E1944 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		B221D28126D057A300C3E1B0 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		B25B866E26CE537D001BE7C1 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 				B2979D6126CA59F900D5FA26 /* ItemDetail.swift */,
 				B25B866E26CE537D001BE7C1 /* OrderView.swift */,
 				B221D28126D057A300C3E1B0 /* MainView.swift */,
+				B202D19526DD62740048C005 /* CheckoutView.swift */,
 			);
 			path = iDine;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			files = (
 				B2979D6226CA59F900D5FA26 /* ItemDetail.swift in Sources */,
 				B221D28226D057A300C3E1B0 /* MainView.swift in Sources */,
+				B202D19626DD62740048C005 /* CheckoutView.swift in Sources */,
 				B25B866F26CE537D001BE7C1 /* OrderView.swift in Sources */,
 				B2999FCF26C7F33800CAADBE /* ContentView.swift in Sources */,
 				B2999FCD26C7F33800CAADBE /* iDineApp.swift in Sources */,
